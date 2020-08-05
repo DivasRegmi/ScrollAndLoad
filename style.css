@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 80%;
+    margin: 20px auto;
+}
+
+
+.container-user-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    background-color: #ddd;
+
+}
+
+button{
+    margin: 20px;
+    
+}
